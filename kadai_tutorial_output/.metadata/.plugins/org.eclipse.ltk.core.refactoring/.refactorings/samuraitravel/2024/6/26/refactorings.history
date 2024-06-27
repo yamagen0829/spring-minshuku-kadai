@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application-development.properties&apos; to &apos;samuraitravel/src/main/resources&apos;&#x0A;- 元のプロジェクト: &apos;samuraitravel&apos;&#x0A;- 宛先要素: &apos;samuraitravel/src/main/resources&apos;&#x0A;- オリジナル要素: &apos;application-development.properties&apos;" description="ファイルをコピー" destination="/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/" element1="src/main/resources/application-development.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1719494234432" units="0" version="1.0"/>
+</session>

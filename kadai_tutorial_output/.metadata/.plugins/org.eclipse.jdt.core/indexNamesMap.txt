@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/Applications/Eclipse_2023-12.app/Contents/spring_boot_kadai/kadai_tutorial_output/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
